@@ -3,4 +3,6 @@ scikit-learn
 numpy
 streamlit
 
+pip install "altair<5"
+
 #flask, django, nodejs, react, streamlit
