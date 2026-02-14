@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+numpy
+streamlit
+
+#flask, django, nodejs, react, streamlit
